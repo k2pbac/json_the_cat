@@ -19,5 +19,9 @@
   "homepage": "https://github.com/k2pbac/json_the_cat#readme",
   "devDependencies": {
     "request": "^2.88.2"
+  },
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.0"
   }
 }
